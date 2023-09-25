@@ -4,7 +4,7 @@ Este es un pequeño proyecto que genera ideas aleatorias para inspirarte en tu p
 
 ## Uso
 
-1. Clona este repositorio en tu computadora.
+1. Clona este repositorio en tu ordenador.
 2. Abre el archivo `generador_de_ideas.py` en tu editor de código favorito.
 3. Ejecuta el script para generar una idea aleatoria.
 
