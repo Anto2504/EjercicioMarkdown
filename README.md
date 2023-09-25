@@ -19,7 +19,7 @@ Si tienes alguna idea para mejorar este generador de ideas aleatorias, ¡no dude
 1. Haz un fork de este repositorio.
 2. Realiza tus cambios.
 3. Envía un pull request.
-
+![Imagen Ideas](https://live.staticflickr.com/1880/43854555594_b55c023c6a_b.jpg)
 ## Créditos
 
 Este proyecto fue inspirado por la necesidad de superar bloqueos creativos y fue desarrollado por Antonio Trujillo Pardo.
