@@ -22,7 +22,7 @@ Si tienes alguna idea para mejorar este generador de ideas aleatorias, ¡no dude
 
 ## Créditos
 
-Este proyecto fue inspirado por la necesidad de superar bloqueos creativos y fue desarrollado por [Tu Nombre].
+Este proyecto fue inspirado por la necesidad de superar bloqueos creativos y fue desarrollado por Antonio Trujillo Pardo.
 
 ## Licencia
 
